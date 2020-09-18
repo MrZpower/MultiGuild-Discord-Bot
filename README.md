@@ -1,0 +1,1 @@
+[![Run on Repl.it](https://repl.it/badge/github/stuyy/MultiGuild-Discord-Bot)](https://repl.it/github/stuyy/MultiGuild-Discord-Bot)
